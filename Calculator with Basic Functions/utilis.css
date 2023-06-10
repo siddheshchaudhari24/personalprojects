@@ -1,0 +1,36 @@
+.text-center {
+  text-align: center;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.text{
+  color: aliceblue;
+}
+
+.width-merge {
+  width: 141px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.cover{
+  max-width: 320px;
+  background-color: grey;
+  padding: 15px 0px;
+  border-radius: 15px;
+}
+
+
